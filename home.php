@@ -1,0 +1,6 @@
+<?php 
+
+    $casa="hola casa"
+
+
+?>
