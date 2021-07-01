@@ -1,6 +1,6 @@
 <?php 
 
-    $casa="hola casa"
+    $casa=$_POST['nuevo'];
 
 
 ?>
